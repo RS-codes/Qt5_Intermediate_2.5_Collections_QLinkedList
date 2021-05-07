@@ -1,0 +1,1 @@
+# Qt5_Intermediate_2.5_Collections_QLinkedList
