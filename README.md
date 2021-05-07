@@ -1,3 +1,5 @@
 # Qt5_Intermediate_2.5_Collections_QLinkedList
 
-#SourceCode to be added soon
+#In collection QLinkedList discussed and
+
+#SourceCode added
